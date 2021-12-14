@@ -198,7 +198,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kTextLightColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -226,7 +226,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kTextLightColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -254,7 +254,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kTextLightColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -282,7 +282,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kPrimaryColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -478,7 +478,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kTextLightColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -506,7 +506,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kTextLightColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -534,7 +534,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kTextLightColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -562,7 +562,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kPrimaryColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -758,7 +758,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kTextLightColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -786,7 +786,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kTextLightColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -814,7 +814,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kTextLightColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -842,7 +842,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kPrimaryColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -1038,7 +1038,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kTextLightColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -1066,7 +1066,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kTextLightColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -1094,7 +1094,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kTextLightColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -1122,7 +1122,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kPrimaryColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -1318,7 +1318,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kTextLightColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -1346,7 +1346,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kTextLightColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -1374,7 +1374,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kTextLightColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -1402,7 +1402,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kPrimaryColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -1598,7 +1598,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kTextLightColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -1626,7 +1626,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kTextLightColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -1654,7 +1654,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kTextLightColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -1682,7 +1682,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kPrimaryColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -1878,7 +1878,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kTextLightColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -1906,7 +1906,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kTextLightColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -1934,7 +1934,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kTextLightColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -1962,7 +1962,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kPrimaryColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -2158,7 +2158,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kTextLightColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -2186,7 +2186,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kTextLightColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -2214,7 +2214,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kTextLightColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -2242,7 +2242,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kPrimaryColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -2438,7 +2438,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kTextLightColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -2466,7 +2466,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kTextLightColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -2494,7 +2494,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kTextLightColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -2522,7 +2522,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kPrimaryColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -2718,7 +2718,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kTextLightColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -2746,7 +2746,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kTextLightColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -2774,7 +2774,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kTextLightColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
@@ -2802,7 +2802,7 @@ class DoctorsScreen extends StatelessWidget {
                                           style: GoogleFonts.almarai(
                                             textStyle: textCard,
                                             color: kPrimaryColor,
-                                            fontSize: 15,
+                                            fontSize: 12,
                                           ),
                                         ),
                                       ],
