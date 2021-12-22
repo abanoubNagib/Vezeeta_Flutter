@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "272195132748",
+    "project_id": "flutter-2a05d",
+    "storage_bucket": "flutter-2a05d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272195132748:android:a76e42eb36182d209b03e9",
+        "android_client_info": {
+          "package_name": "com.example.vezeeta_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272195132748-raj9otc9voe77u4p4t343sro5tqdi0t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBplsAfP3tPJ8u_64Vol2NMLXSmub4378A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272195132748-raj9otc9voe77u4p4t343sro5tqdi0t3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

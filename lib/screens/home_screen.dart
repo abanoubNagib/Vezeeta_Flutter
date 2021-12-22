@@ -1,15 +1,40 @@
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:vezeeta_flutter/constants.dart';
-import 'package:vezeeta_flutter/screens/home/pharmacy_screen.dart';
-import 'package:vezeeta_flutter/screens/home/specialist_screen.dart';
+import 'package:vezeeta_flutter/screens/pharmacy_screen.dart';
+import 'package:vezeeta_flutter/screens/specialist_screen.dart';
+import 'package:firebase_auth/firebase_auth.dart';
+import 'registration_screen.dart';
 
 class HomeScreen extends StatefulWidget {
+  // static const String id = 'home_screen';
   @override
   _HomeScreenState createState() => _HomeScreenState();
 }
 
 class _HomeScreenState extends State<HomeScreen> {
+  // final _auth = FirebaseAuth.instance;
+  // FirebaseAuth? loggedInUser;
+
+  // @override
+  // void initState() {
+  //   super.initState();
+  //   getCurrentUser();
+  // }
+
+  // void getCurrentUser() async {
+  //   try {
+  //     final user = await _auth.currentUser!;
+  //     if (user != null) {
+  //       loggedInUser = user as FirebaseAuth?;
+  //       // print(loggedInUser.email);
+  //     }
+  //   } catch (e) {
+  //     print(e);
+  //   }
+  // }
+
   @override
   Widget build(BuildContext context) {
     Size size = MediaQuery.of(context).size;
